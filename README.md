@@ -3,7 +3,8 @@
 - 👻 Hello! I’m chaggle, whom is currently learning python, data structure, algorithm and preparing for postgraduate entrance examination, and now I'm learning Operating System, Computer Network and something can build up my ability 
 
 ```cpp
-class chaggle (){
+class chaggle ()
+{
     string my = "Programmer and will be a researcher";
  
     string languages = {"C", "Cpp", "Python"};
