@@ -1,16 +1,18 @@
 # chaggle <img alt="GitHub followers" src="https://img.shields.io/github/followers/chaggle?style=social" />
 
-- 🌱 Hello! I’m chaggel, whom is currently learning python, data structure, algorithm and preparing for Preparing for postgraduate entrance examination.
+- 👻 Hello! I’m chaggle, whom is currently learning python, data structure, algorithm and preparing for postgraduate entrance examination, and now I'm learning Operating System, Computer Network and something can build up my ability 
 
 ```cpp
 class chaggle (){
-    string my = "Programmer and will be a AIer";
+    string my = "Programmer and will be a researcher";
  
-    string langs = {"C", "Cpp", "Python"};
+    string languages = {"C", "Cpp", "Python"};
 }
 ```
 
-## **GitHub status**
+
+
+## **GitHub Statistics**
 
 [![chaggle's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaggle&show_icons=true&theme=tokyonight) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=chaggle&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaggle&theme=monokai)
